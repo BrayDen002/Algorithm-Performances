@@ -1,7 +1,7 @@
 # Default build instructions:
 
 
-`% cd 3-Algorithm-Performances`     # contains the source files and CMakeLists.txt file  
+`% cd Algorithm-Performances`     # contains the source files and CMakeLists.txt file  
 `% mkdir build`  
 `% cd build`  
 `% cmake ../`           # cmake generates lots of output   
